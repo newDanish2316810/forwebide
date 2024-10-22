@@ -4,6 +4,10 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("appforGit.controller.View1", {
+		
+		onInit:function(){
+			
+		}
 
 	});
 });
